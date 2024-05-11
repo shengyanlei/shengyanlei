@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 > 这里就是用来自我介绍！！😄😄😄
-> 但具体的介绍还没想好 🤔🤔🤔
+> 但没想好怎么写 🤔🤔🤔
