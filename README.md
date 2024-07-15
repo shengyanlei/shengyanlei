@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> 这里就是用来自我介绍！！😄😄😄
-> ISFJ人格在此，具体请见https://www.16personalities.com/ch/%E7%BB%93%E6%9E%9C/isfj-a/x/bp9yts9j1
+> 自我介绍！！
+> 准备考公的码农  
+> 性格者：ISFJ守卫者，具体内容介绍请见https://www.16personalities.com/ch/%E7%BB%93%E6%9E%9C/isfj-a/x/bp9yts9j1
