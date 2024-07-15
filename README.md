@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 > 这里就是用来自我介绍！！😄😄😄
-> 但没想好怎么写 🤔🤔🤔
+> ISFJ人格在此，具体请见https://www.16personalities.com/ch/%E7%BB%93%E6%9E%9C/isfj-a/x/bp9yts9j1
