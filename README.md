@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 > 自我介绍！！
-> 准备考公的码农  
-> 性格者：ISFJ守卫者，具体内容介绍请见https://www.16personalities.com/ch/%E7%BB%93%E6%9E%9C/isfj-a/x/bp9yts9j1
+> 一个想上岸的码农  
+> 性格类型：ISFJ守卫者，具体内容介绍请见https://www.16personalities.com/ch/%E7%BB%93%E6%9E%9C/isfj-a/x/bp9yts9j1
